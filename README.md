@@ -1,21 +1,21 @@
-# Required Movies For Hackers
+## Required Movies For Hackers
 
-### 2001: The Space Odessy
+* 2001: The Space Odessy
 
-### Dune
+* Dune
 
-### Mad Max Beyond Thunder Dome
+* Mad Max Beyond Thunder Dome
 
-### Hackers
+* Hackers
 
-### Johnny Neumonic
+* Johnny Neumonic
 
-### Lawnmower Bnad
+* Lawnmower Bnad
 
-### Matrix
+* Matrix
 
-### Sneakers
+* Sneakers
 
-### Blade Runner
+* Blade Runner
 
-### Tron 
+* Tron 
