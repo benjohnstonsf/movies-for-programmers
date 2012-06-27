@@ -4,7 +4,7 @@ Feel free to add to the list by submitting a PR.
 
 List by [@mochaleaf](http://twitter.com/mochaleaf).
 
-* 2001: The Space Odessy
+* 2001: The Space Odyssey
 
 * Dune
 
