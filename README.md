@@ -1,4 +1,4 @@
-## Required Movies For Hackers
+## Required Movies For Programmers
 
 Feel free to add to the list by submitting a PR.
 
