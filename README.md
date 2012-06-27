@@ -8,13 +8,13 @@ List by [@mochaleaf](http://twitter.com/mochaleaf).
 
 * Dune
 
-* Mad Max Beyond Thunder Dome
+* Mad Max Beyond Thunderdome
 
 * Hackers
 
-* Johnny Neumonic
+* Johnny Mnemonic
 
-* Lawnmower Ban
+* Lawnmower Man
 
 * Matrix
 
