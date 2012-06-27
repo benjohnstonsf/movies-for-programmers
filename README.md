@@ -14,7 +14,7 @@ List by [@mochaleaf](http://twitter.com/mochaleaf).
 
 * Johnny Neumonic
 
-* Lawnmower Bnad
+* Lawnmower Ban
 
 * Matrix
 
